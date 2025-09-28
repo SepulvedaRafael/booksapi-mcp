@@ -2,6 +2,7 @@
 
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=facc56" alt="Python"></a>
 <a href="https://www.python.org/"><img src="https://img.shields.io/badge/FASTAPI-000000?style=for-the-badge&logo=fastapi&logoColor=009688" alt="FastAPI"></a>
+<a href="https://www.learncpp.com/"><img src="https://img.shields.io/badge/MARIADB-000000?style=for-the-badge&logo=mariadb&logoColor=a4644c" alt="MariaDB"></a>
 <a href="https://modelcontextprotocol.io/docs/getting-started/intro"><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=FFFFFF" alt="Model Context Protocol"></a>
 <a href="https://code.visualstudio.com/docs/copilot/customization/mcp-servers"><img src="https://img.shields.io/badge/VSCODE-000000?style=for-the-badge" alt="Visual Studio Code"></a>
 <a href="hhttps://cursor.com/pt-BR/docs/context/mcp/directory"><img src="https://img.shields.io/badge/CURSOR-000000?style=for-the-badge" alt="Cursor IA"></a>
