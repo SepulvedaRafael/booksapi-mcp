@@ -114,7 +114,7 @@ Por fim, você será redirecionado pra basta `mcp.json`, com o código mais ou m
 
 Logo acima, terá um botão escrito Início e do lado deveria estar aparecendo 5 ferramentas ou tools. Isso significa que ele reconheceu certinho o seu servidor MCP. Assim, inicie o servidor MCP e caso queira checar está funcionando devidamente, pressione: `CTRL` + `SHIFT` + `U`, isso irá abrir o `OUTPUT` ou `SAÍDA`.
 
-Ao lado do filtro terá uma lista suspensa onde você deverá buscar por: `MCP: nome do seu servidor`.
+Ao lado do filtro terá uma lista suspensa onde você deverá buscar por: `MCP: nome do seu servidor`. Caso não apareça, vá no arquivo `mcp.json` e clique em `Mais...`, depois vá em `Mostrar saída`.
 
 Para utilizá-lo, basta abrir o Chat, colocar em Agente ao invés de Ask e pressionar na opção que aparece duas ferramentas cruzadas. Nela, deixe selecionado apenas o seu servidor MCP e clique em OK.
 
