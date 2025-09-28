@@ -5,7 +5,6 @@
 <a href="https://www.learncpp.com/"><img src="https://img.shields.io/badge/MARIADB-000000?style=for-the-badge&logo=mariadb&logoColor=a4644c" alt="MariaDB"></a>
 <a href="https://modelcontextprotocol.io/docs/getting-started/intro"><img src="https://img.shields.io/badge/MCP-000000?style=for-the-badge&logo=modelcontextprotocol&logoColor=FFFFFF" alt="Model Context Protocol"></a>
 <a href="https://code.visualstudio.com/docs/copilot/customization/mcp-servers"><img src="https://img.shields.io/badge/VSCODE-000000?style=for-the-badge" alt="Visual Studio Code"></a>
-<a href="hhttps://cursor.com/pt-BR/docs/context/mcp/directory"><img src="https://img.shields.io/badge/CURSOR-000000?style=for-the-badge" alt="Cursor IA"></a>
 
 Esse projeto foi criado por um estudo explorando o Protocolo de Contexto de Modelo (MCP), aplicado em Python e FastAPI, visando entender a sua utilização.
 
