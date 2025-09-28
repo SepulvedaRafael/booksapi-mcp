@@ -32,10 +32,6 @@ pipx ensurepath
 
 Após isso, realize a instalação do `uv`:
 ```bash
-(WINDOWS)
-pipx install uv
-
-(LINUX UBUNTU)
 pipx install uv
 ```
 
