@@ -74,6 +74,8 @@ Para executar esse código via FastAPI e uvicorn, para visualizar ou certificar 
 uvicorn api:app --reload
 ```
 
+Caso queira fazer algumas requisições para saber se os endpoints estão funcionando, fique a vontade para executar o comando acima e ir na pasta `requests`. Certifique-se de ter a extensão REST Client (VScode ou Cursor) instalado e clique siga a ordem: POST, GET, PUT e DELETE. Para executar cada um desses arquivos, basta clicar em `Send request`.
+
 ## 🤖 Execução via FastMCP + VSCode
 Par executar esse código via FastMCP com VSCode, pressione: `CTRL`+ `SHIFT` + `P`. Quando abrir a janela, digite `MCP: Adicionar Servidor`.
 
