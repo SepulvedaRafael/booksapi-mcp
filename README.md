@@ -119,3 +119,7 @@ Ao lado do filtro terá uma lista suspensa onde você deverá buscar por: `MCP: 
 Para utilizá-lo, basta abrir o Chat, colocar em Agente ao invés de Ask e pressionar na opção que aparece duas ferramentas cruzadas. Nela, deixe selecionado apenas o seu servidor MCP e clique em OK.
 
 Por fim, basta solicitar alguma ação, como adicionar um livro, atualizar algo do livro, deletar o livro, consultar os livros e consultar a quantidade de livros. Quando fizer alguma dessas solicitações, ele irá pedir permissão para cada execução.
+
+
+> [!IMPORTANT]
+> Para o MCP funcionar no VSCode, acredito que seja necessário ter o Github Copilot, Github Copilot Chat e o Python como extensões.
