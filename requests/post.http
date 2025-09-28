@@ -1,0 +1,8 @@
+POST http://127.0.0.1:8000/livros
+Content-Type: application/json
+
+{
+  "title": "O Guia do Mochileiro Python",
+  "author": "Jesus Almeida",
+  "year_published": 2000
+}

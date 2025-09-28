@@ -1,0 +1,8 @@
+PUT http://127.0.0.1:8000/livros/1
+Content-Type: application/json
+
+{
+  "title": "O Guia do Mochileiro das Galáxias (Edição Especial)",
+  "author": "Jesus Cordoba",
+  "year_published": 2984
+}
